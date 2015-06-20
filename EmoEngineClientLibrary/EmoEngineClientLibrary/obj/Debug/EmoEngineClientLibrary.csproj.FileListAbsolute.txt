@@ -1,0 +1,11 @@
+Z:\Users\any\Documents\Projects\AI backpack\emotivengineclient-37327\EmoEngineClientLibrary\EmoEngineClientLibrary\bin\Debug\MathNet.Numerics.dll
+Z:\Users\any\Documents\Projects\AI backpack\emotivengineclient-37327\EmoEngineClientLibrary\EmoEngineClientLibrary\bin\Debug\EmoEngineClientLibrary.XML
+Z:\Users\any\Documents\Projects\AI backpack\emotivengineclient-37327\EmoEngineClientLibrary\EmoEngineClientLibrary\bin\Debug\EmoEngineClientLibrary.dll
+Z:\Users\any\Documents\Projects\AI backpack\emotivengineclient-37327\EmoEngineClientLibrary\EmoEngineClientLibrary\bin\Debug\EmoEngineClientLibrary.pdb
+Z:\Users\any\Documents\Projects\AI backpack\emotivengineclient-37327\EmoEngineClientLibrary\EmoEngineClientLibrary\bin\Debug\DotNetEmotivSDK.dll
+Z:\Users\any\Documents\Projects\AI backpack\emotivengineclient-37327\EmoEngineClientLibrary\EmoEngineClientLibrary\bin\Debug\MathNet.Numerics.IO.dll
+Z:\Users\any\Documents\Projects\AI backpack\emotivengineclient-37327\EmoEngineClientLibrary\EmoEngineClientLibrary\bin\Debug\MathNet.Numerics.IO.pdb
+Z:\Users\any\Documents\Projects\AI backpack\emotivengineclient-37327\EmoEngineClientLibrary\EmoEngineClientLibrary\bin\Debug\MathNet.Numerics.IO.xml
+Z:\Users\any\Documents\Projects\AI backpack\emotivengineclient-37327\EmoEngineClientLibrary\EmoEngineClientLibrary\obj\Debug\EmoEngineClientLibrary.csprojResolveAssemblyReference.cache
+Z:\Users\any\Documents\Projects\AI backpack\emotivengineclient-37327\EmoEngineClientLibrary\EmoEngineClientLibrary\obj\Debug\EmoEngineClientLibrary.dll
+Z:\Users\any\Documents\Projects\AI backpack\emotivengineclient-37327\EmoEngineClientLibrary\EmoEngineClientLibrary\obj\Debug\EmoEngineClientLibrary.pdb

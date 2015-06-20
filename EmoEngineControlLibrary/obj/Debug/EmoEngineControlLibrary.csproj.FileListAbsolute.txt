@@ -1,0 +1,17 @@
+Z:\Users\any\Documents\Projects\AI backpack\emotivengineclient-37327\EmoEngineControlLibrary\bin\Debug\MathNet.Numerics.dll
+Z:\Users\any\Documents\Projects\AI backpack\emotivengineclient-37327\EmoEngineControlLibrary\bin\Debug\EmoEngineControlLibrary.dll
+Z:\Users\any\Documents\Projects\AI backpack\emotivengineclient-37327\EmoEngineControlLibrary\bin\Debug\EmoEngineControlLibrary.pdb
+Z:\Users\any\Documents\Projects\AI backpack\emotivengineclient-37327\EmoEngineControlLibrary\bin\Debug\DotNetEmotivSDK.dll
+Z:\Users\any\Documents\Projects\AI backpack\emotivengineclient-37327\EmoEngineControlLibrary\bin\Debug\EmoEngineClientLibrary.dll
+Z:\Users\any\Documents\Projects\AI backpack\emotivengineclient-37327\EmoEngineControlLibrary\bin\Debug\EmoEngineClientLibrary.pdb
+Z:\Users\any\Documents\Projects\AI backpack\emotivengineclient-37327\EmoEngineControlLibrary\bin\Debug\EmoEngineClientLibrary.xml
+Z:\Users\any\Documents\Projects\AI backpack\emotivengineclient-37327\EmoEngineControlLibrary\obj\Debug\EmoEngineControlLibrary.csprojResolveAssemblyReference.cache
+Z:\Users\any\Documents\Projects\AI backpack\emotivengineclient-37327\EmoEngineControlLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Z:\Users\any\Documents\Projects\AI backpack\emotivengineclient-37327\EmoEngineControlLibrary\obj\Debug\EmoEngineControlLibrary_MarkupCompile.cache
+Z:\Users\any\Documents\Projects\AI backpack\emotivengineclient-37327\EmoEngineControlLibrary\obj\Debug\EmoEngineControlLibrary_MarkupCompile.lref
+Z:\Users\any\Documents\Projects\AI backpack\emotivengineclient-37327\EmoEngineControlLibrary\obj\Debug\Themes\Generic.baml
+Z:\Users\any\Documents\Projects\AI backpack\emotivengineclient-37327\EmoEngineControlLibrary\obj\Debug\EmoEngineControlLibrary.g.resources
+Z:\Users\any\Documents\Projects\AI backpack\emotivengineclient-37327\EmoEngineControlLibrary\obj\Debug\EmoEngineControlLibrary.Properties.Resources.resources
+Z:\Users\any\Documents\Projects\AI backpack\emotivengineclient-37327\EmoEngineControlLibrary\obj\Debug\EmoEngineControlLibrary.csproj.GenerateResource.Cache
+Z:\Users\any\Documents\Projects\AI backpack\emotivengineclient-37327\EmoEngineControlLibrary\obj\Debug\EmoEngineControlLibrary.dll
+Z:\Users\any\Documents\Projects\AI backpack\emotivengineclient-37327\EmoEngineControlLibrary\obj\Debug\EmoEngineControlLibrary.pdb

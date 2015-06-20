@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmoEngineClientLibrary", "EmoEngineClientLibrary\EmoEngineClientLibrary.csproj", "{630D8A3E-6592-4648-B30E-02A38AD85F96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RawDataTestApp", "RawDataTestApp\RawDataTestApp.csproj", "{FCAA429A-E8B7-4401-98AC-54C8746B915D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmoEngineControlLibrary", "..\EmoEngineControlLibrary\EmoEngineControlLibrary.csproj", "{B1D96A23-A7B3-4BA8-8092-C02E39462845}"
+EndProject
+Project("{7CF6DF6D-3B04-46F8-A40B-537D21BCA0B4}") = "Documentation", "Documentation\Documentation.shfbproj", "{FCB6DE77-5602-48BB-B15D-C715B79D05C2}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs18
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = EmoEngineClientLibrary\\EmoEngineClientLibrary.csproj
+		SccProjectName1 = EmoEngineClientLibrary
+		SccLocalPath1 = EmoEngineClientLibrary
+		SccProjectUniqueName2 = RawDataTestApp\\RawDataTestApp.csproj
+		SccProjectName2 = RawDataTestApp
+		SccLocalPath2 = RawDataTestApp
+		SccProjectUniqueName3 = ..\\EmoEngineControlLibrary\\EmoEngineControlLibrary.csproj
+		SccProjectName3 = ../EmoEngineControlLibrary
+		SccLocalPath3 = ..\\EmoEngineControlLibrary
+		SccProjectUniqueName4 = Documentation\\Documentation.shfbproj
+		SccProjectName4 = Documentation
+		SccLocalPath4 = Documentation
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{630D8A3E-6592-4648-B30E-02A38AD85F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630D8A3E-6592-4648-B30E-02A38AD85F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630D8A3E-6592-4648-B30E-02A38AD85F96}.Debug|x86.ActiveCfg = Debug|x86
+		{630D8A3E-6592-4648-B30E-02A38AD85F96}.Debug|x86.Build.0 = Debug|x86
+		{630D8A3E-6592-4648-B30E-02A38AD85F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630D8A3E-6592-4648-B30E-02A38AD85F96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{630D8A3E-6592-4648-B30E-02A38AD85F96}.Release|x86.ActiveCfg = Release|x86
+		{630D8A3E-6592-4648-B30E-02A38AD85F96}.Release|x86.Build.0 = Release|x86
+		{FCAA429A-E8B7-4401-98AC-54C8746B915D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCAA429A-E8B7-4401-98AC-54C8746B915D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCAA429A-E8B7-4401-98AC-54C8746B915D}.Debug|x86.ActiveCfg = Debug|x86
+		{FCAA429A-E8B7-4401-98AC-54C8746B915D}.Debug|x86.Build.0 = Debug|x86
+		{FCAA429A-E8B7-4401-98AC-54C8746B915D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCAA429A-E8B7-4401-98AC-54C8746B915D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCAA429A-E8B7-4401-98AC-54C8746B915D}.Release|x86.ActiveCfg = Release|x86
+		{FCAA429A-E8B7-4401-98AC-54C8746B915D}.Release|x86.Build.0 = Release|x86
+		{B1D96A23-A7B3-4BA8-8092-C02E39462845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1D96A23-A7B3-4BA8-8092-C02E39462845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1D96A23-A7B3-4BA8-8092-C02E39462845}.Debug|x86.ActiveCfg = Debug|x86
+		{B1D96A23-A7B3-4BA8-8092-C02E39462845}.Debug|x86.Build.0 = Debug|x86
+		{B1D96A23-A7B3-4BA8-8092-C02E39462845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1D96A23-A7B3-4BA8-8092-C02E39462845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1D96A23-A7B3-4BA8-8092-C02E39462845}.Release|x86.ActiveCfg = Release|x86
+		{B1D96A23-A7B3-4BA8-8092-C02E39462845}.Release|x86.Build.0 = Release|x86
+		{FCB6DE77-5602-48BB-B15D-C715B79D05C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB6DE77-5602-48BB-B15D-C715B79D05C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB6DE77-5602-48BB-B15D-C715B79D05C2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FCB6DE77-5602-48BB-B15D-C715B79D05C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB6DE77-5602-48BB-B15D-C715B79D05C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB6DE77-5602-48BB-B15D-C715B79D05C2}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
